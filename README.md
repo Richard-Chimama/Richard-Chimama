@@ -1,7 +1,7 @@
 
 👋 Hey there! Thanks so much for stopping by my GitHub page!
 
-Fresh out of school and super excited to bring my A-game to the tech world! I'm deeply passionate about frontend development and dabble in full-stack too. Coding isn't just a skill for me; it's a playground where I love to create user-friendly interfaces that people enjoy interacting with.
+I am super excited to bring my A-game to the tech world! I'm deeply passionate about frontend development and dabble in full-stack too. Coding isn't just a skill for me; it's a playground where I love to create user-friendly interfaces that people enjoy interacting with.
 
 My tech stack includes JavaScript, React.js, CSS, and HTML. I absolutely enjoy the creative freedom and the problem-solving aspects that come with these languages. On top of that, I've got hands-on experience with TypeScript, Cypress, Node.js, Storybook, and even React Native. So, not just confined to the web, but also exploring other platforms!
 
